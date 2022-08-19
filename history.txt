@@ -1,0 +1,50 @@
+  463  git add .
+  464  git commit -m"updated terminal histlry"
+  465  git push
+  466  cd e:
+  467  jupyter notebook
+  468  jupyter lab
+  469  conda activate dev
+  470  jupyter lab
+  471  pip install sympy
+  472  jupyter lab
+  473  conda activate dev
+  474  jupyter lab
+  475  conda activate dev
+  476  cd e:
+  477  jupyter lab
+  478  conda activate dev
+  479  jupyter jlab
+  480  jupyter lab
+  481  cd e:
+  482  ls
+  483  cd fintech_material/Module4/
+  484  ls
+  485  jupyter lab
+  486  git clone https://github.com/yutakadayo/module_4_challenge.git
+  487  cd module_4_challenge/
+  488  ls
+  489  ls
+  490  git status
+  491  git add .
+  492  git commit -m"extracted starter code inside the directory"
+  493  git push
+  494  cd e:
+  495  ls
+  496  cd fintech_material/
+  497  ls
+  498  cd Module4
+  499  ls
+  500  jupyter lab
+  501  cd e:
+  502  cd fintech_material/Module4
+  503  ls
+  504  conda activate dev
+  505  jupyter lab
+  506  ls
+  507  cd module_4_challenge/
+  508  git status
+  509  git add .
+  510  git status
+  511  git commit -m"draft analysis"
+  512  history 50 > history.txt
